@@ -4,7 +4,7 @@ draw on computer screen in every color, using webcam and OpenCV color detection
 ## STEP 1 - capture video from computer camera.
 ## STEP 2 - choose a color to draw with (user clicking on the screen)
 ## STEP 3 - detect the color name.
-* comparing over 1000 colors database and RGB values.
+* comparing over 1000 colors database and RGB values. the csv file attach on the Resources folder.
 * plot the name of the chosen color.
 ## STEP 4 - imply a mask
 * imply a mask to the imge with the same color values, to detect our marker/pen.
