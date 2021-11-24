@@ -7,7 +7,7 @@ draw on computer screen in every color, using webcam and OpenCV color detection
 * comparing over 1000 colors database and RGB values. the csv file attach on the Resources folder.
 * plot the name of the chosen color.
 ## STEP 4 - imply a mask
-* imply a mask to the imge with the same color values, to detect our marker/pen.
+* imply a mask to the iamge with the same color values, to detect our marker/pen.
 ## STEP 5 - detect the contours of the marker and define his "paint point".
 ## STEP 6 - draw on the screen
  * drawing on differnent window with the same color that have been chosen.
